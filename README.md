@@ -1,6 +1,6 @@
 # Multi-Agent Research Assistant
 
-A portfolio-ready research assistant that orchestrates specialized agents with **LangChain** and **LangGraph**.
+A research assistant that orchestrates specialized agents with **LangChain** and **LangGraph**.
 
 ## Architecture
 
@@ -93,13 +93,6 @@ multi-agent-research-assistant/
 │   └── cli.py                    # Command-line runner
 └── tests/
 ```
-
-## Portfolio tips
-
-1. Add a screenshot of the Streamlit report to your README (architecture diagram is in `assets/`).
-2. Enable LangSmith and link a trace showing parallel researcher nodes.
-3. Deploy Streamlit on Streamlit Cloud or containerize with Docker.
-4. Extend with human-in-the-loop review using LangGraph interrupts.
 
 ## License
 
